@@ -13,7 +13,7 @@ from Summoner import Summoner
 from League import League_by_summoner
 
 
-Pyke.set_token('RGAPI-d325fe12-bd41-4c6f-bfcb-e0127c3370ce')
+Pyke.set_token('YOUR-TOKEN')
 Pyke.set_region('euw1')
 
 summoner = Summoner('Don Noway')
